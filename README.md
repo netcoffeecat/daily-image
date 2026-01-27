@@ -53,7 +53,7 @@
 
 ## 🌍 在线预览地址
 
-- 🔗 **EO Pages 页面**：[https://ccv.94v.net/](https://ccn.94v.net/)
+- 🔗 **EO Pages 页面**：[https://ccn.94v.net/](https://ccn.94v.net/)
 
 ---
 
@@ -67,7 +67,7 @@
    - 访问 `[https://ccn.94v.net/api/daily` 或者 `https://ccn.94v.net/daily.webp` 获取今日壁纸。
    - 可在网页中直接使用，如：`<img src="https://ccn.94v.net/api/daily" alt="今日壁纸" />`。
 
-更多参数欢迎访问地址：[https://ccn.94v.net/api](https://ccv.94v.net/api) 进行查询。
+更多参数欢迎访问地址：[https://ccn.94v.net/api](https://ccn.94v.net/api) 进行查询。
 
 ## 📜 License
 
